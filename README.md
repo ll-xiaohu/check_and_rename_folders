@@ -1,0 +1,2 @@
+# check_and_rename_folders
+检查文件目录下是否存在.LiTower文件
